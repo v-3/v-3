@@ -1,5 +1,11 @@
 ## Hi, I am Vish! 👋
 
+I am exploring AI. 
+
+I am especially interested in discovering the frontier of Human X AI collaboration. 
+
+I am imagining a future where AI and humans can work on many new things together and unlock new ways of engagement. 
+
 <!--
 **v-3/v-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
